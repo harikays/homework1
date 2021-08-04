@@ -1,1 +1,5 @@
-# homework1
+- on a scale from 1 to 5, how comfortable were you with this assignment? 3
+- what was a win you had with this assignment? average
+- what was a challenge you had with this assignment? great challenge
+- is there anything that you'd like some further information on? new knowledge
+- other stuff on your mind? work with anyone? tell us about it! No
